@@ -1,5 +1,5 @@
 # 💼 Online Job Vacancy Website
-
+ 
 A simple web application for browsing and managing online job vacancy listings.
 
 ## 📌 About The Project
