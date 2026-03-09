@@ -1,22 +1,39 @@
-# Situs Lowongan Kerja Online - Tenaga Kerja Sleman
+# 💼 Online Job Vacancy Website
 
-**Deskripsi Singkat:**  
-Sebuah proyek **Full Stack Web Development** untuk Tugas Akhir tahun 2019, berupa website lowongan kerja online yang menghubungkan **pencari kerja** dengan **perusahaan**, sekaligus mendukung pencatatan pekerja oleh **Dinas Tenaga Kerja Kabupaten Sleman**.
+A simple web application for browsing and managing online job vacancy listings.
 
-**Fokus & Keahlian yang Digunakan:**
-- **Full Stack Development:** Merancang dan membangun website dari tahap desain, implementasi, hingga deployment lokal.  
-- **Backend:** PHP menggunakan **Laravel**, mengelola autentikasi, logika bisnis, dan integrasi database.  
-- **Database:** MySQL, termasuk manajemen data perusahaan, lowongan, pelamar, dan hasil seleksi.  
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap untuk tampilan responsif dan interaktif.  
-- **Integrasi Email:** PHPMailer untuk notifikasi lamaran dan konfirmasi akun.  
-- **UI/UX:** Membuat dashboard perusahaan, pelamar, dan admin agar mudah digunakan.  
+## 📌 About The Project
+This project is a web-based job vacancy platform that helps users find job opportunities easily.  
+Administrators can manage job postings by adding, editing, and deleting job vacancy data.
 
-**Fitur Utama:**
-- Registrasi dan login untuk perusahaan dan pelamar.  
-- Perusahaan dapat membuat dan mengatur postingan lowongan kerja dengan durasi tertentu.  
-- Pelamar dapat melihat lowongan pekerjaan dan mengajukan lamaran.  
-- Perusahaan menyeleksi berkas pelamar langsung di website.  
-- Pencatatan pelamar yang diterima secara otomatis untuk keperluan Dinas Tenaga Kerja.  
+This project was created as a portfolio project to demonstrate basic web development skills such as CRUD operations, database integration, and responsive web design.
 
-**Catatan:**  
-Proyek ini merupakan karya akademik saya dan menjadi bagian dari portofolio **Full Stack Web Development**, terutama untuk pengalaman menggunakan **Laravel**, manajemen database, dan interaksi frontend-backend.
+## ⚙️ Features
+- 🔎 View job vacancy listings
+- ➕ Add new job vacancies
+- ✏️ Edit job information
+- ❌ Delete job postings
+- 📱 Responsive web interface
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+## 📷 Screenshots
+_Add screenshots of your website here_
+
+Example:
+
+![Home Page](screenshots/home.png)
+
+## 🚀 How to Run the Project
+1. Clone this repository
+2. Move the project folder to your **htdocs** directory (if using XAMPP)
+3. Import the database file to **phpMyAdmin**
+4. Run the project in your browser
+
+## 📄 License
+This project is created for educational and portfolio purposes.
