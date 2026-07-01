@@ -1,39 +1,36 @@
-# 💼 Online Job Vacancy Website
+# 🔍 Situs Lowongan Kerja Online
 
-A simple web application for browsing and managing online job vacancy listings.
+A web-based job vacancy portal connecting job seekers with employers, built as an undergraduate thesis project for **Dinas Tenaga Kerja Sleman, Yogyakarta**.
 
-## 📌 About The Project
-This project is a web-based job vacancy platform that helps users find job opportunities easily.  
-Administrators can manage job postings by adding, editing, and deleting job vacancy data.
+## 📋 About
 
-This project was created as a portfolio project to demonstrate basic web development skills such as CRUD operations, database integration, and responsive web design.
+This project was developed as a final undergraduate thesis at **Universitas Teknologi Yogyakarta (UTY)** in collaboration with Dinas Tenaga Kerja Sleman. The system digitizes the job vacancy process, making it easier for both employers and job seekers to connect online.
 
-## ⚙️ Features
-- 🔎 View job vacancy listings
-- ➕ Add new job vacancies
-- ✏️ Edit job information
-- ❌ Delete job postings
-- 📱 Responsive web interface
+## ✨ Features
 
-## 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
+- 📝 Employer registration & vacancy posting
+- 👤 Job seeker registration & profile management
+- 🔍 Search and filter job listings
+- 📄 Online job application system
+- 🛡️ Admin panel for managing postings & applicants
+- 📊 Applicant tracking for employers
 
-## 📷 Screenshots
-_Add screenshots of your website here_
+## 🛠️ Tech Stack
 
-Example:
+|   Layer  | Technology |
+|----------|-----------|
+| Frontend | HTML5, CSS3, JavaScript, Bootstrap |
+| Backend  | PHP Native |
+| Database | MySQL |
 
-![Home Page](screenshots/home.png)
+## 👨‍💻 Developer
 
-## 🚀 How to Run the Project
-1. Clone this repository
-2. Move the project folder to your **htdocs** directory (if using XAMPP)
-3. Import the database file to **phpMyAdmin**
-4. Run the project in your browser
+**Abdul Azis, S.Kom.**
+Full-Stack Web Developer
+- 🌐 Portfolio: [abdulazis.my.id](https://abdulazis.my.id)
+- 💼 LinkedIn: [abdulazis-f91](https://www.linkedin.com/in/abdulazis-f91)
+- 📧 Email: abdulazis.dev1@gmail.com
 
-## 📄 License
-This project is created for educational and portfolio purposes.
+---
+
+> 📌 This project was created for educational and thesis purposes (2019).
